@@ -1,4 +1,4 @@
-Some optimizations to be able to make faster standart skip list advanced data structure.
+Some optimizations to make faster standart skip list which is advanced data structure.
 
 Includes that 
 
